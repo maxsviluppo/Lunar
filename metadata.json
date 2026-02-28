@@ -1,0 +1,5 @@
+{
+  "name": "Lunar Landing Odyssey",
+  "description": "A physics-based landing simulator featuring multiple vehicles like UFOs, Shuttles, and Hot Air Balloons. Master the thrusters to achieve a perfect touchdown.",
+  "requestFramePermissions": []
+}
